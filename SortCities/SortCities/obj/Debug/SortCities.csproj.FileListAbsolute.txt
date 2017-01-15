@@ -1,0 +1,5 @@
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortCities\bin\Debug\SortCities.dll
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortCities\bin\Debug\SortCities.pdb
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortCities\obj\Debug\SortCities.csprojResolveAssemblyReference.cache
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortCities\obj\Debug\SortCities.dll
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortCities\obj\Debug\SortCities.pdb

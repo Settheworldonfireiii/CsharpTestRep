@@ -1,0 +1,8 @@
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\bin\Debug\SortTaTest.dll
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\bin\Debug\SortTaTest.pdb
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\bin\Debug\SortCities.dll
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\bin\Debug\SortCities.pdb
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\obj\Debug\SorttTestProj.csprojResolveAssemblyReference.cache
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\obj\Debug\SortTaTest.dll
+c:\users\jeddid\documents\visual studio 2015\Projects\SortCities\SortTaTest\obj\Debug\SortTaTest.pdb
